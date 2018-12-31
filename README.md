@@ -14,7 +14,6 @@ A web wrapper around Stepper motor driver A4988 to drive a stepper motor (17HS34
 
 | Library                   | Link                                                       |
 |---------------------------|------------------------------------------------------------|
-|ESPAsyncE131               |https://github.com/forkineye/ESPAsyncE131                   |
 |ESPAsyncUDP                |https://github.com/me-no-dev/ESPAsyncUDP                    |
 |ESPAsyncTCP                |https://github.com/me-no-dev/ESPAsyncTCP                    |
 |ESPAsyncWiFiManager        |https://github.com/alanswx/ESPAsyncWiFiManager              |
