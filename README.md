@@ -4,6 +4,10 @@
 
 A web wrapper around Stepper motor driver A4988 to drive a stepper motor (17HS3401) up and down.
 
+## Hardware
+
+![Hardware Setup](https://github.com/debsahu/ESP8266-Stepper-A4988/blob/master/WiringSchematic.png)
+
 ## Libraries Needed
 
 [platformio.ini](https://github.com/debsahu/ESP8266-Stepper-A4988/blob/master/platformio.ini) is included, use [PlatformIO](https://platformio.org/platformio-ide) and it will take care of installing the following libraries.
